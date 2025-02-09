@@ -13,7 +13,7 @@ A Flask-based web application for managing contacts. This application intentiona
 ### Clone the Repository
 ```bash
 git clone <repository-url>
-cd contact-list-manager
+cd lab6
 ```
 
 ### Setting Up Virtual Environment
@@ -89,7 +89,7 @@ The application will be available at `http://localhost:5001`
 
 ## Project Structure
 ```
-contact-list-manager/
+lab6/
 ├── app.py               # Main Flask application
 ├── models.py           # Database models
 ├── forms.py            # Form definitions
